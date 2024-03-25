@@ -13,10 +13,10 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
+        - title: Stay Permit
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
+        - title: ID Card
           description: Important highlight B is equally important
           url: https://gmail.com
         - title: Page A
