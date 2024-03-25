@@ -14,10 +14,10 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Stay Permit
-          description: Important highlight A is important
+          description: Raise stay permit application
           url: https://google.com
         - title: ID Card
-          description: Important highlight B is equally important
+          description: Raise ID card application
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
