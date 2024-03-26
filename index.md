@@ -8,9 +8,9 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: ePRIMS
-      subtitle: ePRIMS allows raising of stay permit and ID card applications.
-      background: /images/hero-banner.png
-      button: Contact Us
+      subtitle: Submit your online applications today!
+      background: /images/MFA4.png
+      button: Apply NOW
       url: /contact-us/
       key_highlights:
         - title: Stay Permit
@@ -18,9 +18,9 @@ sections:
           url: https://google.com
         - title: ID Card
           description: Raise ID card application
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+          url: https://form.gov.sg/65dd54e0cdc68597a44e9ddc
+        - title: Vehicle
+          description: Raise vehicle application
           url: /privacy/
   - infobar:
       title: Infobar title
