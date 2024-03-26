@@ -1,15 +1,26 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Stay Permit
+    url: /permalink
+    sublinks:
+      - title: New Stay Permit
+        url: /permalink
+      - title: Transfer Stay Permit
+        url: /permalink
+      - title: Cancel Stay Permit
+        url: /permalink
+  - title: New/ Transfer Vehicle
+    url: /permalink
+  - title: ID Card
+    url: /permalink
+    sublinks:
+      - title: New ID Card
+        url: https://form.gov.sg/65dd54e0cdc68597a44e9ddc
+      - title: Transfer ID Card
+        url: https://form.gov.sg/65dd54e0cdc68597a44e9ddc
+      - title: Cancel ID Card
+        url: https://form.gov.sg/65dd54e0cdc68597a44e9ddc
