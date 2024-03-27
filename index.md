@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Stay Permit
           description: Raise stay permit application
-          url: https://form.gov.sg/65dd54e0cdc68597a44e9ddc
+          url: https://form.gov.sg/65e03742623fb2fc7de34331
         - title: ID Card
           description: Raise ID card application
           url: https://form.gov.sg/65dd54e0cdc68597a44e9ddc
