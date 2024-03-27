@@ -53,3 +53,7 @@ staging: https://staging-lite.dxzmwv5kqfmae.amplifyapp.com
 prod: https://master.d2xa6ytgz7hvh0.amplifyapp.com
 facebook-pixel: ""
 resources_name: prims
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
