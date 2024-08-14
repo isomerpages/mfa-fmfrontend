@@ -4,24 +4,23 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Please note that there are new application forms created for Stay
+  Permit and ID Card applications.
 sections:
   - hero:
       title: ePRIMS
       subtitle: Submit your online applications today!
-      background: /images/MFA4.png
-      button: Apply NOW
-      url: https://form.gov.sg/65e03742623fb2fc7de34331
-      key_highlights:
-        - title: Stay Permit
-          description: Raise stay permit application
-          url: https://form.gov.sg/65e03742623fb2fc7de34331
-        - title: ID Card
-          description: Raise ID card application
-          url: https://form.gov.sg/65dd54e0cdc68597a44e9ddc
-        - title: Vehicle
-          description: Raise vehicle application
-          url: https://form.gov.sg/65dd54e0cdc68597a44e9ddc
+      background: /images/Passport_3.jpg
+      variant: floating
+      size: md
+      backgroundColor: gray
+      dropdown:
+        title: Apply Now
+        options:
+          - title: Apply for Stay Permit & IDCard
+            url: https://form.gov.sg/662a16e0f1c3f46ce84b88de
+          - title: Apply for ID Card only
+            url: https://form.gov.sg/661c82b78f4364af26076a0f
   - infobar:
       title: Infobar title
       subtitle: Subtitle
